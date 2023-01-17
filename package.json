@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Shamoleambo/trversy-node-crash-course/issues"
   },
-  "homepage": "https://github.com/Shamoleambo/trversy-node-crash-course#readme"
+  "homepage": "https://github.com/Shamoleambo/trversy-node-crash-course#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
